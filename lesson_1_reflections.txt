@@ -1,0 +1,20 @@
+Hello World.
+I am proud to use GitHub for my Applications.
+This is cool.
+
+1 . How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+I feel that old version are needed quite a lot when working on large applications.
+It is critical to restore to any point of the file.
+
+2 .  What do you think are the pros and cons of manually choosing when to create a commit, 
+	 like you do in Git, vs having versions automatically saved, like Google Docs does? 
+Pros : - 
+1. Ordered and logical commits are made.
+2. Commits are organised and easier to find.
+Cons :- 
+1. One might forget to make an essential commit.
+
+3 . Why do you think some version control systems, like Git, allow saving multiple 
+	files in one commit, while others, like Google Docs, treat each file separately?
+Advantages are : - 
+ It helps you to make concurrent changes in two files such as html and css
